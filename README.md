@@ -1,4 +1,4 @@
-#**2048 Project**
+# **2048 Project**
 
 This project is based on the famous 2048 game.
 The game was created using **Java** and the **Android SDK** 
